@@ -62,5 +62,5 @@ grid on;['' ...
 
 ## RESULT:
 
-![WhatsApp Image 2026-04-01 at 14 39 34](https://github.com/user-attachments/assets/a5d7e0bc-09a4-496c-a975-dceeccaca40f)
+![exp 3 result](https://github.com/user-attachments/assets/b84fc472-2752-4e9e-844b-2158ed0e6d9a)
 
